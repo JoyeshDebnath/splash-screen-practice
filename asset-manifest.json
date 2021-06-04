@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/splash-screen-practice/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/splash-screen-practice/static/js/main.2f0a5034.chunk.js",
+    "main.js.map": "/splash-screen-practice/static/js/main.2f0a5034.chunk.js.map",
+    "runtime-main.js": "/splash-screen-practice/static/js/runtime-main.6e669770.js",
+    "runtime-main.js.map": "/splash-screen-practice/static/js/runtime-main.6e669770.js.map",
+    "static/js/2.c389e61e.chunk.js": "/splash-screen-practice/static/js/2.c389e61e.chunk.js",
+    "static/js/2.c389e61e.chunk.js.map": "/splash-screen-practice/static/js/2.c389e61e.chunk.js.map",
+    "static/js/3.525cfb88.chunk.js": "/splash-screen-practice/static/js/3.525cfb88.chunk.js",
+    "static/js/3.525cfb88.chunk.js.map": "/splash-screen-practice/static/js/3.525cfb88.chunk.js.map",
+    "index.html": "/splash-screen-practice/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/splash-screen-practice/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c389e61e.chunk.js.LICENSE.txt": "/splash-screen-practice/static/js/2.c389e61e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e669770.js",
+    "static/js/2.c389e61e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2f0a5034.chunk.js"
+  ]
+}
